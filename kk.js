@@ -1,1 +1,1 @@
-console.log("Oldu")
+console.log("Olduu!")
